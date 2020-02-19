@@ -1,0 +1,12 @@
+loss:0.70834, accuracy:0.54860, f1_m:0.19379, precision_m:0.70667, recall_m:0.12039
+loss:0.73339, accuracy:0.54644, f1_m:0.14254, precision_m:0.53333, recall_m:0.09527
+loss:0.71963, accuracy:0.53348, f1_m:0.15623, precision_m:0.65111, recall_m:0.09330
+loss:0.72881, accuracy:0.52052, f1_m:0.09622, precision_m:0.53333, recall_m:0.05453
+loss:0.72859, accuracy:0.50540, f1_m:0.01486, precision_m:0.13333, recall_m:0.00787
+loss:0.73831, accuracy:0.51620, f1_m:0.04798, precision_m:0.33333, recall_m:0.02641
+loss:0.71230, accuracy:0.52916, f1_m:0.22127, precision_m:0.54259, recall_m:0.15702
+loss:0.71365, accuracy:0.56156, f1_m:0.25497, precision_m:0.62381, recall_m:0.18276
+loss:0.71454, accuracy:0.53348, f1_m:0.19603, precision_m:0.63228, recall_m:0.13048
+loss:0.71681, accuracy:0.54860, f1_m:0.20815, precision_m:0.60000, recall_m:0.14094
+loss:0.71948, accuracy:0.52052, f1_m:0.09928, precision_m:0.40000, recall_m:0.06133
+loss:0.72536, accuracy:0.53348, f1_m:0.15576, precision_m:0.50000, recall_m:0.09934
